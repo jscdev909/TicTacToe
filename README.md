@@ -11,8 +11,7 @@ A small, console-based game of TicTacToe I made in between my other Python proje
 
 ## How to run
 
-Make sure Python 3.14 is installed and the Python interpreter executable is on your path. Then, either clone this repository or download the tictactoe.py script to 
-a local directory. Then just change directories to where the script is and run the following command:
+Make sure Python 3.14 is installed and the Python interpreter executable is available on your PATH (you can check this by running `py --version`). Then, either clone this repository or download the tictactoe.py script to a local directory. Then just change directories to where the script is and run the following command:
 
 `py tictactoe.py`
 
