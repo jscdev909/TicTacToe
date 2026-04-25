@@ -1,3 +1,5 @@
+# Tic-Tac-Toe
+
 <img width="354" height="234" alt="Recording2026-04-24234840-ezgif com-video-to-webp-converter" src="https://github.com/user-attachments/assets/cfd0ced9-fe0a-4160-832b-0d98e7750f8a" />
 
 A small, console-based game of TicTacToe I made in between my other Python projects. Can you beat the CPU?
